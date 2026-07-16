@@ -1,0 +1,5 @@
+# fastf1-service/requirements.txt
+fastf1==0.3.1
+fastapi==0.110.2
+uvicorn[standard]==0.30.1
+pydantic==2.7.4
